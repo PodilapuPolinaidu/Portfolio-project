@@ -8,6 +8,7 @@ body {
   #navbar{
     background-color: rgb(12, 11, 12);
     padding:10px 20px;
+      
     }
     .nav-content{
       display:flex;
