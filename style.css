@@ -356,17 +356,17 @@ profile-photo > img{
   flex-wrap: wrap;
 }
 .project{
-    /* padding: 30px 15px; */
     color: #e5e5e5;
     border: 2px solid #e5e5e5;
     border-radius: 10px;
     width: 100%;
     position: relative;
-    padding: 25px;
+    padding: 20px;
     text-align: center;
     flex-basis: 32%;
     transition: .3s;
 }
+
 .project i{
   background-color: #fed700;
   width: 60px;
@@ -395,7 +395,10 @@ border: none;
 padding: 5px;
 cursor: pointer;
 }
-
+.project img{
+  height: 60%;
+  width: 100%;
+}
 
 /*---------------------------Contact Me---------------------------*/
 .contact-content{
